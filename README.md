@@ -25,7 +25,7 @@ A recreation of the classic **Flappy Bird** game built using **Java Swing** and 
 ## 🎮 How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-java.git
+   git clone [https://github.com/arvindverma63/flappy-bird-java.git](https://github.com/arvindverma63/Flappy-Bird.git)
    ```
 2. Navigate to the project directory:
    ```bash
